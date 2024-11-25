@@ -126,12 +126,12 @@ print(type('America'))                          # str
 num = 2                                         # int
 floater = 2.5                                   # float
 complexer = 2 - 69j                             # complex
-strings = 'I LOVE COCK'                         # string
-kai_loves_cock = True                           # boolean
-lovers = ['Lucario', 'Ninetales']               # list
+strings = 'string'                              # string
+is_this_a_boolean = True                        # boolean
+lovers = ['Lucario', 'Azumarill']               # list
 more_lovers = ('69', '420')                     # tuple
 even_MORE_lovers = {'Azarath', 'Mithras'}       # set
-dicktionary = {'friend': 'no'}                  # dictionary
+dictionary = {'friend': 'no'}                   # dictionary
 
 dist1 = abs(2 - 3)
 dist2 = abs(8 - 10)
